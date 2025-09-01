@@ -1,0 +1,70 @@
+header{
+    background-color: rgb(241, 216, 153);
+    color: black;
+    height: 150px;
+    width: auto;
+    text-align: center;
+    font-size: 100px;
+}
+main{
+    background-color: crimson;
+    border:10px solid crimson;
+    height: 1750px;
+}
+h1,h2{
+    text-align: center;
+}
+
+.Recipe{
+    border: 3px solid whitesmoke;
+    border-radius: 10px;
+    height: auto;
+    width: 400px;
+    background-color: white;
+}
+.Recipe:hover{
+    transform: scale(1.05);
+}
+.container1{
+    display: flex;
+    margin: 100px 0px 50px 220px;
+    gap: 100px;
+} 
+.container2{
+    display: flex;
+    margin: 100px 0px 50px 220px;
+    gap: 100px;
+}
+.box{
+    text-align: center;
+    margin: 50px 50px 0px 50px;
+    border: 2px solid black;
+    border-radius: 8px;
+    height: 300px;
+    width: 300px;
+}
+
+.tech1{
+    margin: 0px 650px 0px 740px;
+    border: 5px solid rgb(227, 240, 241);
+    border-radius: 8px;
+    height:auto;
+    width: 400px;
+    text-align: center;
+
+}
+.tech2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer{
+    background-color:  rgb(241, 216, 153);
+    height: 500px;
+    width: auto;
+    
+}
+
+.tech{
+    padding-top: 70px;
+}
